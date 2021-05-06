@@ -1,0 +1,30 @@
+.search{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid white;
+    color: white;
+    border-radius: 0;
+}
+.input-group-text{
+    color: white;
+    background: transparent;
+    border: none;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1; /* Firefox */
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: white;
+  }
+  
+  ::-ms-input-placeholder { /* Microsoft Edge */
+    color: white;
+  }
+  // ops::
+  .nav{color: white;}
+  .nav-item .nav-link{color: white;}
+  .nav-item i{margin-right: 10px;}
+  .mrb-0{margin-bottom: 0 !important;}
+  .brand-nav{background-color: #1c56ad;padding: 20px;}
